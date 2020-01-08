@@ -1,0 +1,3 @@
+﻿  Cycles.cpp
+C:\Users\Admin\source\repos\Cycles\Cycles\Cycles.cpp(27,3): warning C4566: символ, представленный универсальным именем символа "\u2260", невозможно представить в текущей кодовой странице (1251)
+  Cycles.vcxproj -> C:\Users\Admin\source\repos\Cycles\Debug\Cycles.exe
