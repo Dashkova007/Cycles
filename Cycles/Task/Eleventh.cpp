@@ -4,11 +4,11 @@ void eleventh() {
 	setlocale(LC_ALL, "RUS");
 	int height, width;
 	char symbol;
-	cout << "Ââåäèòå øèðèíó = ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑˆÐ¸Ñ€Ð¸Ð½Ñƒ = ";
 	cin >> width;
-	cout << "Ââåäèòå âûñîòó = ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ñ‹ÑÐ¾Ñ‚Ñƒ = ";
 	cin >> height;
-	cout << "Ââåäèòå ñèìâîë = ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð» = ";
 	cin >> symbol;
 	for (int i = 0; i < height; i++) {
 		if (i == 0 || i == height - 1) {
