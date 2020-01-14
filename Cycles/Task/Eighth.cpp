@@ -3,7 +3,7 @@ using namespace std;
 void eighth() {
 	const char f = 42;
 	int size;
-	cout << "Ââåäèòå ðàçìåð (íå÷åòíîå ÷èñëî) = ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ€Ð°Ð·Ð¼ÐµÑ€ (Ð½ÐµÑ‡ÐµÑ‚Ð½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾) = ";
 	cin >> size;
 	for (int i = 0; i < size; i++) {
 		for (int j = 0; j < size; j++) {
